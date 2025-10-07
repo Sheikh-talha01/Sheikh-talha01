@@ -1,3 +1,53 @@
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sheikh-talha01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikh-talha01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  /><img src="https://streak-stats.demolab.com?user=sheikh-talha01&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikh-talha01&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  /><br></div><div align="left"><a href="https://www.linkedin.com/in/talha-sheikh-a7734b185/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a><a href="https://www.instagram.com/talha_sheikh____/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a><a href="talhasheikh5257@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a><a href="https://stackoverflow.com/users/26425811/talha-sheikh" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  /></a><a href="https://www.facebook.com/talha.sheikh.562114" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a><a href="+92 314 0558091" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /></a><br><br></div><div align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /><br><br><b>Thanks for visiting🖤</b><br></div><div align="center"><img src="https://profile-counter.glitch.me/sheikh-talha01/count.svg?"  /></div><b>Counting of Visitors to this page in this section started from July 18, 2024</b>
-<br>
-<br>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikh-talha01&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-talha01&layout=compact&langs_count=6&theme=nightowl&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=sheikh-talha01&theme=nightowl&hide_border=false" height="150" alt="GitHub Streak" />
+
+  <br><br>
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikh-talha01&bg_color=0d1117&color=9cf&line=58a6ff&point=ffffff&area=true&hide_border=false&theme=nightowl" height="300" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+  <!-- Social Links -->
+  <a href="https://www.linkedin.com/in/talha-sheikh-a7734b185/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/talha_sheikh____/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="Instagram" /></a>
+  <a href="mailto:talhasheikh5257@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="Gmail" /></a>
+  <a href="https://stackoverflow.com/users/26425811/talha-sheikh" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="50" height="40" alt="Stack Overflow" /></a>
+  <a href="https://www.facebook.com/talha.sheikh.562114" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="Facebook" /></a>
+  <a href="https://wa.me/923140558091" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="40" alt="WhatsApp" /></a>
+</div>
+
+---
+
+<div align="center">
+  <!-- Tech Stack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</div>
+
+---
+
+<div align="center">
+  <b>Thanks for visiting 🖤</b>
+  <br><br>
+  <!-- Visitor Counter (using hits.sh for reliability) -->
+  <img src="https://hits.sh/github.com/sheikh-talha01.svg?label=Visitors&color=blue&logo=github" alt="Visitor Count" />
+  <br>
+  <b>Counting of Visitors to this page started from Oct 7, 2025</b>
+</div>
