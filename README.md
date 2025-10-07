@@ -49,5 +49,5 @@
   <!-- Visitor Counter (using hits.sh for reliability) -->
   <img src="https://hits.sh/github.com/sheikh-talha01.svg?label=Visitors&color=blue&logo=github" alt="Visitor Count" />
   <br>
-  <b>Counting of Visitors to this page started from Oct 7, 2025</b>
+  <b>Counting of Visitors to this page started from July 18, 2024</b>
 </div>
