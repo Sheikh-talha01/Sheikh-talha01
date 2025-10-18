@@ -4,7 +4,9 @@
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=sheikh-talha01&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=false&cache_seconds=86400" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-talha01&layout=compact&langs_count=8&theme=nightowl&hide_border=false&cache_seconds=86400" height="150" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-talha01&layout=compact&langs_count=8&theme=nightowl&hide_border=false&cache_seconds=86400&hide=jupyter%20notebook" height="150" alt="Top Languages" />
+
 <img src="https://streak-stats.demolab.com?user=sheikh-talha01&theme=nightowl&hide_border=false" height="150" alt="GitHub Streak" />
 
 <!-- Contribution Graph -->
