@@ -1,16 +1,11 @@
 <div align="center">
 
-## 👋 Hi there! Welcome to my GitHub Profile  
+## 👋 Hi there! Welcome to my GitHub Profile
 
 <!-- GitHub Stats -->
-
-<img src="https://github-readme-stats-coral-seven-56.vercel.app/api?username=sheikh-talha01&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=false&cache_seconds=86400" height="150" alt="GitHub stats" />
-
-<img src="https://github-readme-stats-coral-seven-56.vercel.app/api/top-langs/?username=sheikh-talha01&layout=compact&langs_count=8&theme=nightowl&hide_border=false&cache_seconds=86400" height="150" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=sheikh-talha01&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=false&cache_seconds=86400" height="150" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-talha01&layout=compact&langs_count=8&theme=nightowl&hide_border=false&cache_seconds=86400" height="150" alt="Top Languages" />
 <img src="https://streak-stats.demolab.com?user=sheikh-talha01&theme=nightowl&hide_border=false" height="150" alt="GitHub Streak" />
-
-<br><br>
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikh-talha01&bg_color=0d1117&color=9cf&line=58a6ff&point=ffffff&area=true&hide_border=false&theme=nightowl" height="300" alt="Contribution Graph" />
@@ -21,7 +16,7 @@
 
 <div align="center">
 
-### 🌐 Connect with Me  
+### 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/talha-sheikh-a7734b185/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="LinkedIn" />
@@ -48,7 +43,7 @@
 
 <div align="center">
 
-### 💻 Tech Stack  
+### 💻 Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
@@ -71,7 +66,7 @@
 ### 🖤 Thanks for Visiting!
 
 <img src="https://hits.sh/github.com/sheikh-talha01.svg?label=Visitors&color=blue&logo=github" alt="Visitor Count" />
-<br>
+
 <b>Counting of Visitors to this page started from Oct 17, 2025</b>
 
 </div>
