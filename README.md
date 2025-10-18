@@ -3,11 +3,11 @@
 ## 👋 Hi there! Welcome to my GitHub Profile  
 
 <!-- GitHub Stats -->
-<!-- Fixed GitHub Stats (forces cache refresh + total commits) -->
-<img src="https://github-readme-stats.vercel.app/api?username=sheikh-talha01&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=false&cache_seconds=86400" height="150" alt="GitHub stats" />
 
-<!-- Fixed Top Languages (includes recent repos + cache refresh) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-talha01&layout=compact&langs_count=8&theme=nightowl&hide_border=false&cache_seconds=86400" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats-coral-seven-56.vercel.app/api?username=sheikh-talha01&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=false&cache_seconds=86400" height="150" alt="GitHub stats" />
+
+<img src="https://github-readme-stats-coral-seven-56.vercel.app/api/top-langs/?username=sheikh-talha01&layout=compact&langs_count=8&theme=nightowl&hide_border=false&cache_seconds=86400" height="150" alt="Top Languages" />
+
 <img src="https://streak-stats.demolab.com?user=sheikh-talha01&theme=nightowl&hide_border=false" height="150" alt="GitHub Streak" />
 
 <br><br>
